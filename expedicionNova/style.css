@@ -1,0 +1,18 @@
+body {
+    background: #0b0f14;
+    color: #c9f7ff;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+a {
+    color: #2ff55a;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.eliminar {
+    color : red;
+}
+
+
+
